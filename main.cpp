@@ -2,5 +2,10 @@
 using namespace std;
 
 int main() {
-	cout << "ok" << endl;
+	char Data[] = { "Janis mil katrinu" };
+
+
+
+
+
 }
